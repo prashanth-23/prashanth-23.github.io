@@ -16,6 +16,9 @@ a {
     text-decoration: none;
     color: #999;
 }
+img {
+	transform: rotate(90deg);
+}
 a:hover {
     text-decoration: underline;
 }
